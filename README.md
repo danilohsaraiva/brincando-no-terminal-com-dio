@@ -1,9 +1,9 @@
 # brincando-no-terminal-com-dio
-## Projeto simples de iteração com o terminal utilizando de uma classe para armazenar os dadoos oriundos de input do usuário
+## Projeto simples de iteração com o terminal utilizando de uma classe para armazenar os dados oriundos de input do usuário
 
 ### Relação dos Atributos propostos para classe ContaTerminal.java
 
-| Tipo | Nome do Atriburo |
+| Tipo | Nome do Atributo |
 |------|------------------|
 |String|Nome do Cliente|
 | int|Número da Conta|
@@ -60,4 +60,4 @@ do {
     option = input.nextLine().charAt(0);
 }while(option == 'S');
 ```
-### 📚 Este material faz parte do bootcamp Santander 2023.
+### 📚 Este material é resultado dos estudos do bootcamp Santander 2023.
